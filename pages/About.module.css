@@ -1,0 +1,94 @@
+/* ************ CONTAINER ************** */
+
+.presentationContainer {
+    position: relative;
+    width: 90%;
+    height: 1000px;
+    margin: auto;
+    display: flex;	
+    align-items: center;
+    justify-content: center;
+   
+}
+
+/* ************ TEXTE ************** */
+
+.presentationWrite {
+	width: 40%;
+	height: 700px;   
+	font-family: var(--titleFont);
+	margin-right: 3%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.presentationWrite h3 {
+	font-family: var(--textFont);
+	font-size: 1.6rem;
+	text-align: center;
+	color: #333333;
+}
+
+.presentationWrite p {
+	font-family: var(--titleFont);
+	font-size: 1.3rem;
+	letter-spacing: 1.5px;
+	text-align: center;
+	color: #333;
+}
+
+
+/* ************ IMAGE ************** */
+
+
+.presentationImg {
+    width: 600px;
+    height: auto;
+	 margin-left: 3%;
+	 box-shadow: var(--boxshadow);
+    animation: all 1s ease-in-out;
+	 background-color: transparent;
+    animation-name: imgMove;
+    overflow: hidden;
+	 border-radius: 1rem;
+}
+.img {
+	background-color: transparent;
+    width: 100%;
+    border-radius: 1rem;
+	 height: 700px;
+}
+
+
+@keyframes imgMove {
+    from {
+        
+		  filter: blur(10px);
+    }
+    to {
+       
+		  filter: blur(0%);
+    }
+}
+
+
+@media screen and (max-width: 1440px) {
+	.presentationWrite {
+		width: 80%;
+	}
+	.presentationWrite p {
+		font-size: 1rem;
+		letter-spacing: 1.2px;
+	}
+	.presentationWrite h3 {
+		font-size: 1.2rem;
+	}
+	.presentationImg {
+		width: 70%;
+	}
+	.presentationContainer {
+		flex-direction: column;
+	}
+
+}

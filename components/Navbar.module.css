@@ -1,0 +1,150 @@
+
+
+.headBand {
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.navContainer {
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    z-index: 100;
+    background-color: #ffffff;
+}
+
+/* ************* BUTTON *********** */
+
+.buttonMenu {
+    background-color: transparent;
+    display: none;
+    position: absolute;
+    z-index: 500;
+    top: 20px;
+    left: 20px;
+    border: 0;
+}
+.navContainerInvisible {
+    display: none;
+}
+
+/* ************* NAVBAR  *********** */
+
+.voyagerNav button,
+.mangerNav button,
+.accueil {
+    cursor: pointer;
+    font-size: 1.5rem;
+    margin-left: 100px;
+    font-family: var(--textFont);
+    background-color: #ffffff;
+}
+.accueil:hover {
+    transform: scale(1.04);
+    transition: all 0.3s ease;
+}
+
+.voyagerNav,
+.mangerNav {
+    position: relative;
+}
+
+.navContainer button {
+    position: relative;
+    border: 0;
+    font-size: 1.5rem;
+}
+.voyagerNav ul,
+.mangerNav ul {
+    position: absolute;
+    left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background: var(--lightgrey);
+    padding: 0;
+    opacity: 0;
+    /* pointer-events: none ; */
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    z-index: 50;
+}
+.link {
+    padding: 10px 70px;
+    position: relative;
+    z-index: 2000;
+    font-family: "Montserrat", "Helvetica Neue", sans-serif;
+    width: 100%;
+    height: auto;
+    background-color: var(--lightgrey);
+    border-radius: 10px;
+}
+
+.link:hover {
+    background-color: var(--midgrey);
+    transition: all 0.2s ease;
+}
+
+.voyagerNav button:focus + ul,
+.mangerNav button:focus + ul {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(0);
+}
+
+/* MEDIA SCREEN */
+
+@media screen and (max-width: 1024px) {
+    .navContainer {
+        position: absolute;
+        width: 100%;
+        height: auto; 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        background: var(--midgrey);
+    }
+    .headBand {
+       height: 300px;
+    }
+    .buttonMenu {
+        display: block;
+        top: 330px;
+        left: 90%;
+    }
+   
+    .voyagerNav button,
+    .mangerNav button,
+    .accueil {
+        background-color: var(--midgrey);        
+        padding: 10px ;
+        margin: 20px 0;
+        border-bottom: 1px solid #333;  
+       
+    }
+    .voyagerNav button:hover,
+    .mangerNav button:hover,
+    .accueil:hover {
+        background: var(--lightgrey);
+
+    }
+  
+}
+@media screen and (max-width: 1024px) {
+    .headBand {
+        display: none;
+     }
+     .buttonMenu {
+        display: block;
+        top: 30px;
+        
+    }
+}

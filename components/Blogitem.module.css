@@ -1,0 +1,52 @@
+
+.itemContainer {
+	position: relative;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	width: 350px;
+	height: 550px;
+	margin: 10px;
+	
+	border-radius: 25px;
+	transition: all .3s ease-in-out;
+	box-shadow:  var(--boxshadow);
+	background-color: #e0e0e0;
+}
+.itemContainer:hover {
+	transform: scale(1.01);
+	box-shadow:  var(--boxshadow);
+	
+}
+/* IMAGE */
+.imgBlogitem {
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+}
+
+/* BOTTOM CARD */
+.bottomBlogitem {
+	padding: 15px;
+	width: 90%;
+	margin: auto;
+}
+.titleBlogitem, .subtitleBlogitem {
+		text-align: center;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-wrap: wrap;
+		
+}
+
+.titleBlogitem {
+	font-family: var(--titleFont);
+	overflow: wrap;
+	font-size: 1.8rem;
+	
+}
+.subtitleBlogitem {
+	font-family: var(--textFont);
+	margin-bottom: 30px;
+}

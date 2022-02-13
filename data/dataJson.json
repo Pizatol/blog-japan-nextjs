@@ -1,0 +1,130 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "name": "hanabi ",
+            "title": "les Hanabi ",
+            "subtitle": "Ceci est un sous titre concernant le feu d'artifice ",
+            "body": "Si le feu d'artifice a sans nul doute été inventé par les chinois au VIIIe ou IXe siècle de notre ère, l'art de la pyrotechnie conquiert le Japon à la fin du XVIIe siècle. Selon la légende, le premier hanabi de l'histoire nippone fut organisé par le shogun (dirigeant militaire) Tokugawa Yoshimune qui gouverna de 1684 à 1751. Par ce spectacle fantasmatique, il voulut ainsi distraire son peuple et éviter qu'il ne se révolte lors d'une période de crise économique et de famine aigüe. Pour les nippons, le feu d'artifice possède aussi des vertus plus spirituelles, comme celles de chasser les démons ou d'éloigner les mauvais esprits.  ",
+            "body2" : "",
+            "body3" : "",
+            "localisation": "Tokyo ",
+            "tag" : "lieux",
+            "date" : "20 janvier 2016",
+            "img": "/../public/imgBlog/Hanabi/hanabi.jpg ",
+            "img2": "/../public/imgBlog/Hanabi/hanabi2.jpg ",
+            "img3": "/../public/imgBlog/Hanabi/hanabi3.jpg "
+        },
+        {
+            "id": 2,
+            "name": "chateau",
+            "title": "Kinkaku-ji ",
+            "subtitle": "le plus beau des chateaux japonais ",
+            "body": "Bien caché aux pieds des montagnes de Kyoto, ce célèbre temple bouddhiste accueille l'un des plus grands nombres de visiteurs par an du Japon. Préparez vos pupilles, l'éblouissement est garanti. À la porte du temple Rokuon-ji, un ticket d'entrée digne des plus belles calligraphies vous plonge en un instant dans la poésie du lieu. Une allée bordée d'arbres vous guide jusqu'à l'étang au milieu duquel trône le Kinkaku-ji, exhibant sa lumière dorée. \n ",
+            "body2" : " Malgré sa petite taille, la majesté de. l'édifice reste indéniable. Au sommet de cette bâtisse à trois étages se pavane un phénix qui toise les personnes venues. admirer le monument. ",
+            "body3" : "",
+            "localisation": "Kyoto",
+            "tag" : "lieux",
+            "date" : "19 décembre 2016",
+            "img": "/../public/imgBlog/Kinkakuji/chateau.jpg ",
+            "img2": "/../public/imgBlog/Kinkakuji/kinkakuji2.jpg ",
+            "img3": "/../public/imgBlog/Kinkakuji/kinkakuji3.jpg "
+        },
+
+        {
+            "id": 3,
+            "name": "tori",
+            "title": "Fushimi Inari",
+            "subtitle": "Fushimi Inari est vraiment magnifique pendant la saison d'automne",
+            "body": "Au sud de Kyoto, les torii du sanctuaire Fushimi Inari, portails traditionnels à l’entrée des sanctuaires shintoïstes, s’alignent par milliers sur les hauteurs de la montagne. Pour tout visiteur, ce lieu est un incontournable de Kyoto et plus largement du Japon. \n Véritable image d'Épinal du Japon, le sanctuaire shinto Fushimi Inari et ses envoûtants chemins de torii rouges attirent des centaines de milliers de visiteurs tous les ans. L'image des 'tunnels' vermillons créés par les torii alignés est un classique de l'imagerie japonaise. Touristes et Japonais ne sauraient donc faire l'impasse sur la promenade dans cette forêt si particulière lors d'une visite de Kyoto. \n \n Si Fushimi Inari Taisha est si connu, c'est qu'il est assez rare que les torii soient multipliés et alignés à ce point en un seul lieu. Un torii est en effet un portail, qui marque l'entrée dans un sanctuaire shintoïste, et sépare symboliquement le monde physique, du monde spirituel des kami. \n  ",
+            "body2" : " Le Fushimi Inari Taisha,sanctuaire shintô fut bâti en 711 par le clan Hata (d’origine coréenne), et relocalisé en son lieu actuel en 817. Il est dédié à la déesse (kami) Inari, liée au riz, et donc plus largement à la prospérité et la richesse. Elle est ainsi la patronne des commerçants : c'est pourquoi la majorité des torii sont payés par des hommes d'affaires, commerçants et entreprises. Ce sont leurs noms qui sont ainsi gravés en japonais sur les montants des portiques rouges.",
+            "body3" : "Le sanctuaire, très important au Japon, fut placé sous patronnage impérial durant l'époque Heian. Au début du XXème siècle, il fut désigné comme trésor national, aujourd'hui Propriété culturelle majeure. Il s'agit du plus grand sanctuaire dédié à Inari de tout le pays.",
+            "localisation": "Kyoto",
+            "tag" : "lieux",
+            "date" : "12 avril 2017",
+            "img": "/../public/imgBlog/fushimi/tori.jpg",
+            "img2": "/../public/imgBlog/fushimi/fushimi2.jpg",
+            "img3": "/../public/imgBlog/fushimi/fushimi3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "fujisan",
+            "title": "Fuji San",
+            "subtitle": "venez visiter la célèbre montagne",
+            "body": " Du haut de ses 3776m d'altitude, le mont Fuji est la plus haute montagne du Japon, mais également un volcan actif. Situé sur l'île de Honshu le mont Fuji est un lieu incontournable. Considéré comme une montagne sacrée des fidèles la vénèrent régulièrement et procèdent à un rituel de purification qui consiste à gravir le mont. L’eau y est considérée comme pure et permet d’éloigner les mauvais esprits. \n  \n  ",
+            "body2" : "Inscrit au patrimoine culturel mondial de l’Unesco le site accueille chaque année plus de 300 000 grimpeurs. Il existe plusieurs sentiers pour gravir le mont tels que le sentier Fujinomiya et le sentier Yoshida. Composé de 5 lacs différents d’une beauté naturelle tels que le lac de Kawaguchi et celui d’Ashi. Les paysages sont impressionnants notamment en automne et au printemps pour prendre de magnifiques photos. Lors de l’ascension du mont vous pouvez découvrir de nombreuses surprises notamment le bureau de poste le plus haut du Japon à 3 712 m d’altitude et la fameuse stèle en colonne en pierre.",
+            "body3" : "Vivez une expérience inoubliable au sommet du volcan en contemplant un ciel étoilé spectaculaire et un lever de soleil impressionnant. Le mont emblématique est visible depuis la ville de Tokyo, en effet il existe de nombreux points de vus tels que : Depuis le Shinkansen, la colline de Nihondaira, la baie de Suruga …",
+            "localisation": "Shizuoka",
+            "tag" : "lieux",
+            "date" : "15 octobre 2017",
+            "img": "/../public/imgBlog/fuji/Fujisan.jpg",
+            "img2": "/../public/imgBlog/fuji/fuji2.jpg",
+            "img3": "/../public/imgBlog/fuji/fuji3.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "sensoji",
+            "title" : "Le temple Sensoji",
+            "subtitle" : "Le plus vieux temple Bouddhiste de Tokyo",
+            "body" : "Un temple somptueux situé au cœur de Tokyo, le temple Sensoji. Une façade rouge impressionnante se dresse à l’entrée du temple.  Au sein du quartier d’Asakusa se trouve une porte somptueuse qui marque l’entrée principale du temple, l’entrée Kaminarimon qui signifie la « Porte du tonnnerre ». La seconde porte d’entrée la plus connue se nomme Hōzōmon, « la porte de la salle aux trésors ».  ",
+            "body2" : " Le temple Sansoji reçoit chaque année 30 millions de visiteurs des quatre coins de la planète. Pour y accéder il vous suffit de longer la fameuse allée commerciale Nakamise Dori connue pour ses souvenirs et sa street food japonaise. Autour du temple se trouve de charmantes rues piétonnes typiques parfaites pour une promenade. Entrez à l’intérieur d’un temple traditionnel rempli de coutumes et vivez une expérience authentique. Découvrez une culture japonaise avec des traditions uniques. Des encens sont disposés dès l’entrée du temple afin de promouvoir une bonne fortune. Une autre tradition correspond à celle des tiges en bois au bout desquelles se trouve un papier qui prédit l’avenir, si le message est négatif alors il suffit simplement d’attacher le papier sur un fil au temple pour être immunisé. Le temple Sensoji renferme des décors magnifiques notamment avec sa fontaine aux dragons, ses statues de bouddha et ses lanternes qui font de lui un lieu unique.",
+            "body3" : " Profitez d’une balade dans le jardin du temple pour y admirer les cerisiers et pruniers.  Le temple Sensoji reste un lieu phare de Tokyo qui accueille de nombreux festivals et événements tels que le nouvel an japonais, la Nakizumo ou Sanja Matsuri ",
+            "localisation" : "Tokyo",
+            "tag" : "lieux",
+            "date": "7 mai 2017",
+            "img" : "/../public/imgBlog/sensoji/sensoji.jpg",
+            "img2" : "/../public/imgBlog/sensoji/sensoji2.jpg",
+            "img3" : "/../public/imgBlog/sensoji/sensoji3.jpg"
+        
+        },
+        {
+            "id" : 6,
+            "name" : "takayama",
+            "title" : "Takayama",
+            "subtitle" : "le village folklorique",
+            "body" : "Plongez au cœur du charmant village de Takayama. Situé au sein des Alpes japonaises celui-ci en vaut le détour. Surnommée la « Petite Kyoto » la ville de Takayama possède un patrimoine historique exceptionnel. Au cœur de la nature japonaise admirez des décors somptueux. Découvrez des rues historiques remplies de maisons traditionnelles japonaises. Profitez en début d’après midi d’une balade le long de la rivière Miyagawa. Terminez votre journée en beauté en découvrant le sanctuaire de Sakurayama Hashimangû.   ",
+            "body2" : "N’oubliez pas de jeter un œil au marché typique de la ville qui promet une expérience culinaire incroyable. La ville de Takayama est également connue pour son festival majestueux durant lequel des chars magnifiques défilent.",
+            "body3" : "",
+            "img" : "/../public/imgBlog/squareImg/takayama.jpg",
+            "img2" : "/../public/imgBlog/squareImg/takayama.jpg",
+            "img3" : "/../public/imgBlog/squareImg/takayama.jpg",
+            "localisation" : "Tokyo",
+            "tag" : "lieux",
+            "date" : "16 janvier 2017"
+        
+        },
+        {
+            "id" : 7,
+            "name" : "miyajima ",
+            "title" : "Miyajima ",
+            "subtitle" : "L’icône du Japon",
+            "body" : "Miyajima se trouve à quelques kilomètres seulement d’Hiroshima sur l’île sacrée du Japon. Son spectaculaire portail rouge est inscrit au patrimoine mondial de l’UNESCO. Symbole de l’île le Torii flottant symbolise la frontière entre le monde profane et le monde sacré. Du haut de ses 16m le portail marque l’entrée du sanctuaire d’Itsukushima-Jinja.  De nombreux restaurants sont accessibles sur l’île proposant une cuisine traditionnelle avec des spécialités régionales tel que le Momiji Manjû (gâteau au sarrasin).",
+            "body2" : "L’île abrite de nombreux sites à visiter comme de magnifiques temples tels que le Daishoin et le Daiganji. Découvrez également des points de vu spectaculaires au sommet de la montagne tout en traversant les vallées d’érables somptueuses.",
+            "body3" : "Vivez une expérience inoubliable au sein d’une terre sacrée remplie d’histoire.",
+            "localisation" : "Hiroshima",
+            "date" : "16 aout 2017",
+            "tag" : "lieux",
+            "img" : "/../public/imgBlog/miyajima/miyajima.jpg",
+            "img2" : "/../public/imgBlog/miyajima/miyajima2.jpg",
+            "img3" : "/../public/imgBlog/miyajima/miyajima3.jpg"
+        
+        },
+        {
+            "id" : 8,
+            "name" : "gyoza",
+            "title" : "les meilleurs gyozas",
+            "subtitle" : "Harajuku Gyozaro",
+            "body" : "Traditionnellement, les gyoza sont farcis avec de la viande de porc hachée mélangée à des oignons verts, de la ciboule, du chou, du gingembre et de l’ail. Mais aujourd’hui, certains établissements proposent des farces revisitées – notamment aux crevettes ou aux fruits de mer – et expérimentent des goûts différents. On trouve même des gyoza au fromage dans certains restaurants spécialisés !",
+            "body2" : "Qui ne s’est encore jamais régalé de gyoza doit vite y remédier en courant dans un izakaya (restaurant quotidien traditionnel japonais), un restaurant de ramen ou, pour la nouvelle génération, dans un « gyoza bar » ! Ils sont généralement servis par 6 ou 12 et se dégustent accompagnés de sauce de soja vinaigrée et/ou d’huile de sésame piquante (rayu). Certains gyozas s’apprécient uniquement avec l’huile piquante, pour ne pas altérer leur goût. C’est le cas de ceux aux crevettes, qui se marient mal avec le vinaigre.",
+            "body3" : "Les gyoza sont habituellement servis en accompagnement de menus plus copieux (bols de nouilles ou de riz la plupart du temps) mais de plus en plus de « gyoza bars » proposent une carte uniquement à base de variations de raviolis. Pas de panique : même si le concept pourrait paraître soporifique à certains, c’est loin d’être le cas. Les farces et différentes cuissons possibles du gyoza permettent d’élaborer des menus hauts en saveurs qui raviront la curiosité des toutes les papilles. Ce restaurant se situe à l'adresse suivante : 6-2-4 Jingumae, Shibuya 150-0001 Préfecture de Tokyo ",
+            
+            "localisation" : "Tokyo",
+            "tag" : "nourriture",
+            "date" : " 12 mars 2017",
+            "img3" : "/../public/imgBlog/gyoza/gyoza.jpg",
+            "img2": "/../public/imgBlog/gyoza/gyoza2.jpg",
+            "img": "/../public/imgBlog/gyoza/gyoza3.jpg"
+        
+        }
+    ]
+}
