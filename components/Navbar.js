@@ -61,9 +61,7 @@ export default function Navbar({ children }) {
                             <Link href="/articles/postLieux/Hiroshima">
                                 <a className={style.link}>Hiroshima</a>
                             </Link>
-                            <Link href="/articles/allPosts">
-                                <a className={style.link}>Tous articles</a>
-                            </Link>
+                            
                         </ul>
                     </div>
                     <div className={style.mangerNav}>
@@ -86,6 +84,9 @@ export default function Navbar({ children }) {
                     <Link href={"/About"}>
                         <a className={style.accueil}>A propos</a>
                     </Link>
+                    <Link href="/articles/allPosts">
+                                <a className={style.accueil}>Tous les articles</a>
+                            </Link>
                 </nav>
             </div>
                 <ScrollTop/>

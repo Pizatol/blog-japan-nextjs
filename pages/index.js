@@ -29,10 +29,10 @@ export default function Home({data}) {
         
             <h1 className={style.titre}>Bienvenue sur le blog ! </h1>
 
-            <h3>Bienvenues sur le blog des amateurs du Japon</h3>
+            <h3 className={style.subtitleIntro}>Bienvenues sur le blog des amateurs du Japon</h3>
 
-            <p>Vous découvrirez au fil de ces pages des endroits plus ou moins confidentiels, ainsi que des recette de cuisine japonaises, comme si vous étiez invités chez un hôte Japonais. </p>
-            <p>Laissez vous guider ...</p>
+            <p className={style.textIntro}>Vous découvrirez au fil de ces pages des endroits plus ou moins confidentiels, ainsi que des recette de cuisine japonaises, comme si vous étiez invités chez un hôte Japonais. </p>
+            <p className={style.textIntro}>Laissez vous guider ...</p>
 
           
             

@@ -5,6 +5,17 @@
     margin: auto;
     background-color: #ffffff;
 }
+.subtitleIntro {
+  margin: 100px 2rem 2rem;
+  font-family: var(--titleFont);
+  font-size: 2rem;
+
+}
+.textIntro{
+  margin: 150px 20%;
+  font-family: var(--textFont);
+  font-size: 1.5rem;
+}
 
 .headBand {
   width: 100%;
