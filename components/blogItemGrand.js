@@ -1,5 +1,5 @@
 import React from "react";
-import style from "./BlogitemGrand.module.css";
+import style from "./BlogItemGrand.module.css";
 import Image from "next/image";
 
 export default function Blogitem(props) {

@@ -1,12 +1,7 @@
 import Link from "next/link";
 import style from "../styles/Home.module.css";
-import ReactMarkdown from 'react-markdown'
-
 import dataJson from "../data/dataJson";
-
-import Image from "next/image";
-
-import Blogitem from "../components/blogItem";
+import BlogItem from "../components/blogItem";
 import { useState } from "react";
 
 export default function Home({data}) {
@@ -50,7 +45,7 @@ export default function Home({data}) {
                         }`}
                     >
                         <a>
-                            <Blogitem
+                            <BlogItem
                                 img={data[data.length -1].img}
                                 title={data[data.length -1].title}
                                 subtitle={
@@ -67,7 +62,7 @@ export default function Home({data}) {
                         }`}
                     >
                         <a>
-                            <Blogitem
+                            <BlogItem
                                 img={data[data.length - 2].img}
                                 title={data[data.length - 2].title}
                                 subtitle={
@@ -84,7 +79,7 @@ export default function Home({data}) {
                         }`}
                     >
                         <a>
-                            <Blogitem
+                            <BlogItem
                                 img={data[data.length - 3].img}
                                 title={data[data.length - 3].title}
                                 subtitle={

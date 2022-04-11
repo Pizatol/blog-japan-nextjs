@@ -2,7 +2,7 @@
 import React from 'react';
 import style from './allPosts.module.css'
 import Link from 'next/link'
-import Blogitem from '../../../components/blogItem';
+import BlogItem from '../../../components/blogItem';
 import { useRouter } from 'next/router'
 
 export default function allPosts({data}) {
@@ -21,7 +21,7 @@ const router = useRouter()
 					<div  key={index}>
 					<Link href={`../../articles/fullArticle/${e.id}`}>
 					<a>
-						<Blogitem 
+						<BlogItem 
 							id = {e.id}
 							img = {e.img}
 							title = {e.title}
