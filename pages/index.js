@@ -18,6 +18,7 @@ export default function Home({data}) {
 
 
     const postsJson = dataJson.posts;
+    console.log(data[data.length - 3].img);
 
     return (
 

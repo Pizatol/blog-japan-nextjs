@@ -70,15 +70,7 @@ export default function Navbar({ children }) {
                             <Link href="/articles/postRestaurants/Tokyo">
                                 <a className={style.link}>Tokyo</a>
                             </Link>
-                            <Link href="/">
-                                <a className={style.link}>Link 1</a>
-                            </Link>
-                            <Link href="/">
-                                <a className={style.link}>Link 1</a>
-                            </Link>
-                            <Link href="/">
-                                <a className={style.link}>Link 1</a>
-                            </Link>
+                           
                         </ul>
                     </div>
                     <Link href={"/About"}>
