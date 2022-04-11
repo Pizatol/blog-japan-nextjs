@@ -25,6 +25,7 @@ export default function Navbar({ children }) {
                     height={900}
                     layout="fixed"
                     placeholder="blur"
+                    alt="image head band"
                 />
             </div>
 

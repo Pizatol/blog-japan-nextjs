@@ -11,6 +11,7 @@ export default function Blogitem(props) {
                     width={350}
                     height={350}
                     layout="intrinsic"
+                    alt={props.title}
                 />
             </div>
             <div className={style.bottomBlogitem}>

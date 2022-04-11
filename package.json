@@ -20,6 +20,6 @@
     "@babel/eslint-parser": "^7.17.0",
     "@next/eslint-plugin-next": "^12.1.4",
     "eslint": "8.8.0",
-    "eslint-config-next": "12.0.10"
+    "eslint-config-next": "^12.0.10"
   }
 }

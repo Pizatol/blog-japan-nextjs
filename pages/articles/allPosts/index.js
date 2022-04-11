@@ -3,11 +3,11 @@ import React from 'react';
 import style from './allPosts.module.css'
 import Link from 'next/link'
 import BlogItem from '../../../components/blogItem';
-import { useRouter } from 'next/router'
+
 
 export default function allPosts({data}) {
 
-const router = useRouter()
+
 
 
 
